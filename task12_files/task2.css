@@ -1,0 +1,103 @@
+.as{
+    margin-left: 40%;
+    width:fit-content;
+    border: 2px solid black;
+    color: black;
+    box-shadow: 0px 2px 0px 3px;
+    text-shadow: 2px 3px;
+    text-indent: 3px;
+    
+
+
+}
+img{
+    height: 50px; width: 50px;
+}
+*{
+    text-align: center;
+    .ad{
+        margin-left: 40%;
+        color: black;
+        width: fit-content;
+        border: 2px solid black;
+        text-shadow:2px 3px;
+        box-shadow: 1px 0px 5px 3px;
+    
+    }
+    .af{
+        margin-left: 47%;
+        color: black;
+        width: fit-content;
+        border: 2px solid black;
+        box-shadow: 5px 0px 3px 4px;
+        text-shadow: 3px 2px;
+        
+    }
+    .ag{
+        margin-left: 40%;
+        color: black;
+        width: fit-content;
+        border: 2px solid black;
+        box-shadow: 2px 0px 8px 0px;
+        text-shadow: 2px 4px;
+    
+
+
+    }
+    .ah{
+        margin-left: 43%;
+        color: black;
+        width: fit-content;
+        border: 2px solid black;
+        box-shadow:0px 2px 6px 3px ;
+        text-shadow: 1px 2px;
+
+        
+        
+
+
+    }
+    .aj{
+        margin-left: 43%;
+        color: black;
+        width: fit-content;
+        border: 2px solid black;
+        box-shadow:0px 2px 5px 3px ;
+        text-shadow: 1px 2px;
+
+    } 
+    .ak{
+        margin-left: 43%;
+        color: black;
+        width: fit-content;
+        border: 2px solid black;
+        box-shadow:0px 2px 4px 3px ;
+        text-shadow: 1px 2px;
+        
+
+    }
+    .al{
+        margin-left: 43%;
+        color: black;
+        width: fit-content;
+        border: 2px solid black;
+        box-shadow:0px 2px  1px 3px ;
+        text-shadow: 1px 2px;
+        
+        
+
+    }
+
+ 
+
+
+
+
+   
+}
+body{
+    background-image: url(./imagefolder/download.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
